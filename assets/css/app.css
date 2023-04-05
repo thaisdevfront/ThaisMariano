@@ -1,0 +1,61 @@
+*{
+    transition: 3ms;
+}
+body{
+    font-family: 'Inter';
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    display: flex;
+    position: absolute;
+    padding: 20px;
+    max-width: 97%;
+    justify-content: space-between;
+    width: 95%;
+    z-index: 9;
+}
+.btn {
+    background-color: #9F2733;
+    border: 0px;
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+.col-one{
+     background-color: #9F2733;
+    background-image: url(../img/full-bnr.png);
+     height: 100vh !important; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+
+    width: 50%;
+}
+.col-two{
+     background-color: #9F2733;
+    background-image: url(../img/job-olfati.png);
+     height: 100vh !important; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+
+    width: 50%;
+}
+.row{
+    display: flex;
+}
+
+.title{
+    color: #FFFFFF;
+    position: initial;
+    padding-top: 65%;
+    padding-left: 40px;   
+}
+.title-swiper{
+    color: #FFFFFF;
+    position: absolute;
+    padding-top: 65%;
+    padding-left: 40px;   
+}
+  
+
