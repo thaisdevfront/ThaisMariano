@@ -21,6 +21,10 @@ header {
     padding: 10px 15px;
     border-radius: 50px;
 }
+.btn a {
+    color:#ffff;
+    text-decoration: none;
+}
 .col-one{
      background-color: #9F2733;
     background-image: url(../img/full-bnr.png);
