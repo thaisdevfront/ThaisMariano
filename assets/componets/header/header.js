@@ -5,10 +5,12 @@ header.innerHTML=`
             <div class="logo"> 
                 <img src="./assets/img/logo.png">
             </div>
-            <div class="menu"> 
+            <div class="menu" hidden> 
                 <img src="./assets/img/menu-icon.png" style="width:30px;">
             </div>
-            
+            <button class="btn"> 
+                Contato
+            </button>
    
 
 `;
