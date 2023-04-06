@@ -8,7 +8,7 @@ header.innerHTML=`
             <div class="menu" hidden> 
                 <img src="./assets/img/menu-icon.png" style="width:30px;">
             </div>
-            <button class="btn"> 
+            <button class="btn" hreef="https://api.whatsapp.com/send?phone=5512981021517&text=%"> 
                 Contato
             </button>
    
