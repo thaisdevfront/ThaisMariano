@@ -15,7 +15,7 @@ app.innerHTML=`
                     <p> Venha conhecer minhas habilidades.</p>
                 
                     <div style="display:flex; align-items:space-beetwen;">
-                        <buttom class="btn" onclick="#">contato</buttom>
+                        <buttom class="btn" href="https://api.whatsapp.com/send?phone=5512981021517&text=%">contato</buttom>
                         <buttom class="btn" onclick="#"> > </buttom>
                     </div>
                 </div>
